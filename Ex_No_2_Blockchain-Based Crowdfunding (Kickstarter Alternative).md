@@ -1,4 +1,7 @@
 # Experiment 2: Blockchain-Based Crowdfunding (Kickstarter Alternative)
+## Name: Veeraragavan V
+## Reg no: 212223230237
+## Date : 17-04-2025
 ## Aim:
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
