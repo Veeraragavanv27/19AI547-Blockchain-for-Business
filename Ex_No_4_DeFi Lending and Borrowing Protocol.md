@@ -1,4 +1,7 @@
 # Experiment 4: DeFi Lending and Borrowing Protocol
+## Name: Veeraragavan V
+## Reg no: 212223230237
+## Date : 21-04-2025
 # Aim:
 To build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi.
 
@@ -93,5 +96,14 @@ Introduces risk management: overcollateralization and liquidation.
 
 Directly related to DeFi protocols like Aave and Compound.
 
-# RESULT : 
+# Output:
+## Deposit:
+![Screenshot 2025-04-21 133223](https://github.com/user-attachments/assets/ac7abc11-81c4-42f8-8543-6363c3ce4944)
+## collateral:
+![image](https://github.com/user-attachments/assets/6c1dd50b-8e8e-4c8e-97a7-91725cbab78c)
+## Borrow:
+![image](https://github.com/user-attachments/assets/cf61b2b7-7422-454f-9aac-fe6db902f603)
 
+
+# RESULT : 
+The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
