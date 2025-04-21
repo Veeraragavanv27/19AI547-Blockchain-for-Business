@@ -6,14 +6,15 @@
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
 ## Algorithm:
+### step 1:
 A project owner starts a campaign with a funding goal and deadline.
-
+### step 2:
 
 Contributors can send ETH to the campaign.
-
+### step 3:
 
 If the goal is met before the deadline, funds are released to the project owner.
-
+### step 4:
 
 If the goal is not met, contributors can withdraw their funds.
 
