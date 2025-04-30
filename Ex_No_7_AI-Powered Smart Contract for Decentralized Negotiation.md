@@ -1,7 +1,7 @@
 # Experiment 7: AI-Powered Smart Contract for Decentralized Negotiation
 ## Name: Veeraragavan V
 ## Reg no: 212223230237
-## Date :17-04-2025
+## Date :30-04-2025
 # Aim:
 To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
