@@ -6,34 +6,37 @@
 To create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model.
 
 # Algorithm:
-## Step 1: AI-Powered Dynamic Pricing
-Seller lists an item with a minimum price and negotiation range.
+## step 1: Item Listing:
 
+Seller lists an item with a minimum price and a negotiable range.
 
-Buyer submits an offer price.
+## step 2: Buyer Offer:
 
+Buyer submits an offer price for the item.
 
-AI logic (simulated using Solidity algorithms) evaluates the price based on:
+## step 3: Data Collection:
 
+The smart contract accesses on-chain data (demand, history, time-based trends).
 
-Market demand (tracked using on-chain transactions).
+## step 4: AI Evaluation (Simulated in Solidity):
 
+The AI logic uses collected data to assess the fairness of the offer.
 
-Historical transaction data.
+## step 5: Generate Counteroffer:
 
+If the offer is within the negotiation range, the contract generates a counteroffer.
 
-Time-based price fluctuations.
+## step 6: Buyer Decision:
 
+The buyer accepts or rejects the counteroffer.
 
-## Step 2: Smart Contract Counteroffer
-The contract automatically generates a counteroffer if the buyer’s price is within the negotiation range.
+## step 7: Transaction Execution:
 
+If accepted, the transaction is completed and recorded on the blockchain.
 
-If the buyer accepts, the transaction is executed on-chain.
+## step 8: Learning Update:
 
-
-## Step 3: Settlement and Price Learning
-Every completed transaction updates the price learning algorithm to refine future pricing decisions.
+The pricing algorithm updates itself using this transaction data to improve future decisions.
 
 
 
